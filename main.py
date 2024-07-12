@@ -40,4 +40,3 @@ class SistemaEstoque:
             print(f"Produto com ID {id} deletado com sucesso")
         else:
             print("Estoque não encontrado")
-
